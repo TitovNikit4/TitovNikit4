@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TitovNikit4
+- 👀 I’m interested in Chess and Gamedev
+- 🌱 I’m currently learning Unity
+- 📫 How to reach me: tns36reg@gmail.com
